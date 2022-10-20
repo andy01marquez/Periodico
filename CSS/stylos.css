@@ -1,0 +1,17 @@
+h2.titulo1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(114, 10, 10);
+}
+h2.titulo2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(193, 22, 22);
+}
+body{
+    background-color: rgb(246, 229, 207);
+}
+#autor{
+    color: rgb(122, 16, 16);
+}
+.primero{
+    background-color: rgb(246, 213, 213);
+}
